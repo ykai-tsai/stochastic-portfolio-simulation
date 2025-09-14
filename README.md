@@ -1,0 +1,2 @@
+# Overview
+This repository contains an introductory project on portfolio simulation and risk analysis, designed to demonstrate fundamental concepts in quantitative finance. The focus is on building a stochastic model of asset returns and using it to explore risk–return trade-offs, portfolio diversification, and basic performance metrics.
